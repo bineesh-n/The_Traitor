@@ -1,0 +1,14 @@
+    THE TRAITOR v 0.4.12
+    JAVA ME
+    Copyright (C) 2013  Bineesh.N
+
+    This program is free software: under the conditions that you should not redistribute the
+    app as yours. The code provided you should only use for study.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
